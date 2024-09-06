@@ -39,7 +39,8 @@ Results:
 We use seam carving to resize images without distorting important content. The technique involves finding and removing low-energy pixel paths, reducing image dimensions while preserving key features.
 Results:
 
-<img src="https://github.com/user-attachments/assets/1a928395-5f75-4e3a-b2c3-0f769c010363">
+<img src="https://github.com/user-attachments/assets/54229444-2304-48cd-a7ef-ca8d45f2f9f0">
+
 #SeamCarving #ImageResizing #DynamicProgramming
 ## Question 6: Explanatory Questions
 A set of theoretical questions regarding spatial filters, noise reduction, and template matching were explored.
