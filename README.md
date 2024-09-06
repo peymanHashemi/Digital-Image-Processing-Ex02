@@ -12,7 +12,9 @@ Results: The answer is provided in following PDF
 ## Question 2: Motion Detection Using Bit-plane Slicing
 We slice grayscale images into bit-planes and compare consecutive frames using the XOR function to detect motion. The motion is highlighted by reconstructing the image from the significant bit-planes.
 Results:
-![image](https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c) ![image](https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34) ![image](https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f)
+<img src="https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f" width=20% height=20%>
 
 #MotionDetection #BitPlaneXOR #FootballPlayerTracking
 # Question 3: Pedestrian Detection
